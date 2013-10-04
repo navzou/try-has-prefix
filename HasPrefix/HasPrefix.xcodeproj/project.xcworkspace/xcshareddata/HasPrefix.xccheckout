@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7242EA77-8325-45D9-B28E-AC5BD27E517E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HasPrefix</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>ED894B05-C31E-4EF2-9022-C3722172AF81</key>
+		<string>https://github.com/navzou/try-has-prefix.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>HasPrefix/HasPrefix.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>ED894B05-C31E-4EF2-9022-C3722172AF81</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/navzou/try-has-prefix.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>ED894B05-C31E-4EF2-9022-C3722172AF81</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>ED894B05-C31E-4EF2-9022-C3722172AF81</string>
+			<key>IDESourceControlWCCName</key>
+			<string>try-has-prefix</string>
+		</dict>
+	</array>
+</dict>
+</plist>
